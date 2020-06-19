@@ -2,7 +2,7 @@
 
 Visualize different Path Finding Algorithms in this Visualizer. Currently, you can visualize 5 most known path finding algorithms using this project. You can find shortest path between two Nodes and visualize the whole process at different speeds.  
 You can make Obstacles/Walls in the grid and see how algorithms find Path when they detect obstacles. This project has a Maze Generation algorithm from which you can generate a Maze in the Grid.  
-You can play with this Project here: (**[https://sllark.github.io/path-finder-visualizer-js/]()**)
+You can play with this Project here: (**[https://sllark.github.io/path-finder-visualizer-js/](https://sllark.github.io/path-finder-visualizer-js/)**)
 
 
 
