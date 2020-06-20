@@ -4,8 +4,6 @@ Visualize different Path Finding Algorithms in this Visualizer. Currently, you c
 You can make Obstacles/Walls in the grid and see how algorithms find Path when they detect obstacles. This project has a Maze Generation algorithm from which you can generate a Maze in the Grid.  
 You can play with this Project here: (**[https://sllark.github.io/path-finder-visualizer-js/](https://sllark.github.io/path-finder-visualizer-js/)**)
 
-
-
 ## Algorithms
 
 Currently, the visualizer has 5 following algorithms:
@@ -36,3 +34,7 @@ Currently, the visualizer has 5 following algorithms:
 - You can change Speed of Visualizer from "Speed" Dropdown preset at top-right side.
 
 - Play with different Algorithms and have fun :)
+
+---
+
+Took Insipiration for the project from Clément's **[Path Findind Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer/)**
